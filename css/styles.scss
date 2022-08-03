@@ -68,3 +68,17 @@ body {
   bottom: 0px;
   z-index: 1;
 }
+.modal-header {
+  background: $background-dark;
+  color: floralwhite;
+  .btn-close {
+    color: #fff;
+    opacity: 1;
+  }
+}
+.modal-body {
+  background: $background-pale;
+}
+// #exampleModelLabel {
+//   color: floralwhite;
+// }

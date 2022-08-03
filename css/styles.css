@@ -54,3 +54,13 @@ body {
   position: absolute;
   bottom: 0px;
   z-index: 1; }
+
+.modal-header {
+  background: #512da8;
+  color: floralwhite; }
+  .modal-header .btn-close {
+    color: #fff;
+    opacity: 1; }
+
+.modal-body {
+  background: #d1c4e9; }
